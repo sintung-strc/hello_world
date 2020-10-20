@@ -1,2 +1,5 @@
 # hello_world
-trial following https://guides.github.com/activities/hello-world
+
+Hello World:)　
+It's my first project in Github. 
+Hope i can explore more about Github.
